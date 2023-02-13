@@ -6,8 +6,8 @@ import Time from "./Utils/Time.js";
 import Camera from "./Camera.js";
 import Renderer from "./Renderer";
 
-import World from "./World/World.js"
-;
+import World from "./World/World.js";
+
 export default class Experience {
     // Static Instance Variable
     static instance
